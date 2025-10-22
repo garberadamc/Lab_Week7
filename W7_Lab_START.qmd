@@ -235,3 +235,15 @@ effect_plot(m4, pred = music_type, interval = FALSE, plot.points = TRUE,
 **Question:** How do we get the `calmness_rating` prediction for each type of music from the regression equation?
 
 **Response:** _____________________________________
+
+
+------------------------------------------------------------------------
+
+### Continue Monday's Class Exercise - Interpret Regressions
+
+> Google Document Link: 
+
+https://docs.google.com/document/d/1A8oTl1t4RkHbXgIt1-BbdqD_bJepUWUclso9f3LsOq0/edit?usp=sharing
+
+------------------------------------------------------------------------
+
